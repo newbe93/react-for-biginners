@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-for-biginners.git/static/js/main.12dbce69.js",
-    "index.html": "/react-for-biginners.git/index.html",
-    "main.12dbce69.js.map": "/react-for-biginners.git/static/js/main.12dbce69.js.map"
+    "main.js": "/react-for-biginners/static/js/main.12dbce69.js",
+    "index.html": "/react-for-biginners/index.html",
+    "main.12dbce69.js.map": "/react-for-biginners/static/js/main.12dbce69.js.map"
   },
   "entrypoints": [
     "static/js/main.12dbce69.js"
