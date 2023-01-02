@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-for-biginners/static/js/main.9228b3ce.js",
+    "main.js": "/react-for-biginners/static/js/main.b3f559a4.js",
     "index.html": "/react-for-biginners/index.html",
-    "main.9228b3ce.js.map": "/react-for-biginners/static/js/main.9228b3ce.js.map"
+    "main.b3f559a4.js.map": "/react-for-biginners/static/js/main.b3f559a4.js.map"
   },
   "entrypoints": [
-    "static/js/main.9228b3ce.js"
+    "static/js/main.b3f559a4.js"
   ]
 }
