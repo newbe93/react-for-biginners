@@ -15,7 +15,7 @@ function Movie({ id, title, coverImage, rating, genres, summary }) {
             <li key={index}>{genre}</li>
           ))}
         </ul>
-        <p>{summary.length > 50 ? summary : summary}</p>
+        <p>{summary.length > 235 ? `${summary.slice(0, 235)}...` : summary}</p>
       </div>
     </div>
   );
